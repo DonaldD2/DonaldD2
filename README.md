@@ -1,0 +1,4 @@
+- 👋 Hi, I’m DonaldD
+- 🌱 I’m currently learning TypeScript.
+- 💞️ I’m looking to collaborate on Website Development to make a CAD/MDT for RP.
+- 📫 How to reach me via discord: https://discord.gg/mgfMqTX9pM
